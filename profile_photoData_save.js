@@ -14,7 +14,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/9.22.0/firebase-storage.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDADUT7tlyvD8G-WfBpVQoUaY6fRxvvug8",
+    apiKey: "",
     authDomain: "jschampionship-f5265.firebaseapp.com",
     projectId: "jschampionship-f5265",
     storageBucket: "jschampionship-f5265.appspot.com",
